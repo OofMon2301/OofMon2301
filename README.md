@@ -66,13 +66,13 @@
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<!--tech stack icons-->
+<!--tech stack icons--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,py,react,ts,vscode&perline=14" />
   </a>
 </p>
-
+> Remove this to make it normal
 
 
 <!--horizontal divider(gradiant)-->
