@@ -18,9 +18,9 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **C++, C#, Python, React, Svlete, MongoDB**
+- 🔭 I’m currently working on **C++, C#, Python, React, Svelte, MongoDB**
 
-- 🌱 I’m currently learning **to put together an interactive GPA Calculator through web applications.**
+- 🌱 I’m currently learning **Multivariate Calculus and Ordinary Differential Equations**
   
 <!--Intro end-->
 
